@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Creating project :TODO APP",
+  "main": "todoApp.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ankit kumar yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
+}
